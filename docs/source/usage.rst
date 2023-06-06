@@ -1,4 +1,4 @@
-Panduan Instalasi Huweii Network Device
+Panduan Instalasi
 =====
 
 .. _isipaket:
@@ -6,7 +6,7 @@ Panduan Instalasi Huweii Network Device
 Isi Paket
 ------------
 
-- Perangkat Huweii * 1
+- Perangkat Huweii Network Device xx series * 1
 - Power Adaptor * 1 
 
 Jika terdapat barang yang hilang, rusak, atau tidak benar, harap simpan kemasan aslinya dan hubungi distributor terkait. 
