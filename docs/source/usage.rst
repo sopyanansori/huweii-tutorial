@@ -1,34 +1,22 @@
-Usage
+Panduan Instalasi Huweii Network Device
 =====
 
-.. _installation:
+.. _isipaket:
 
-Installation
+Isi Paket
 ------------
 
-To use Lumache, first install it using pip:
+- Perangkat Huweii * 1
+- Power Adaptor * 1 
 
-.. code-block:: console
+Jika terdapat barang yang hilang, rusak, atau tidak benar, harap simpan kemasan aslinya dan hubungi distributor terkait. 
 
-   (.venv) $ pip install lumache
-
-Creating recipes
+Menghidupkan Perangkat
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+- Perhatikan label dibagian bawah perangkat, pastikan mendapatkan lokasi yang sesuai.
+- Sambungkan kabel jaringan ``Internet`` menuju port berlabel (LAN 1) di Perangkat Huweii.
+- Sambungkan kabel jaringan ``Interal`` menuju port berlabel (LAN 2) di Perangkat Huweii.
+- Sambungkan kabel listrik dari Perangkat ke sumber daya listrik yang stabil.
+- Nyalakan perangkat dengan menekan tombol daya.
+- Tunggu beberapa saat hingga lampu indikator pada perangkat menyala dan menunjukkan bahwa perangkat siap digunakan.
