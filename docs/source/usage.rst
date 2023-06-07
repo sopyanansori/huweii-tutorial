@@ -16,7 +16,7 @@ Menghidupkan Perangkat
 
 - Perhatikan label dibagian bawah perangkat, pastikan mendapatkan lokasi yang sesuai.
 
-.. image:: /images/huweii_front.png
+.. image:: /huweii_front.png
    :width: 400
 
 - Sambungkan kabel jaringan ``Internet`` menuju port berlabel (LAN 1) di Perangkat Huweii.
